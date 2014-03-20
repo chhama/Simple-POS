@@ -1,6 +1,6 @@
 <?php
 	$hostname="localhost";
 	$username="root";
-	$pwd="zakth3il0";
+	$pwd="password";
 	$db="dagal";
 ?>
