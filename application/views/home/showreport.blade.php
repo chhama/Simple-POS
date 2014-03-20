@@ -14,7 +14,7 @@ Sales Report between <?php echo Input::get('datepickerFrom')." and ".Input::get(
   
     $host = "localhost"; 
     $uname = "root"; 
-    $pass = "zakth3il0"; 
+    $pass = "password"; 
     $database = "dagal"; 
   
     $connection=mysql_connect($host,$uname,$pass) or die("connection in not ready <br>"); 
