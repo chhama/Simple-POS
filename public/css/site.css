@@ -1,0 +1,13 @@
+footer
+{
+	background: #dddddd;
+	border-top-width: 1px;
+	border-top-style: double;
+	border-top-color: #999999;
+	height: 80px;
+	padding-top: 10px;
+    padding-bottom: 0px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}

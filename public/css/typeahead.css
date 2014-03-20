@@ -1,0 +1,23 @@
+.typeahead-devs, .tt-hint {
+border: 0px solid #cccccc;
+border-radius: 0px 0px 0px 0px;
+font-size: 0px;
+height: 0px;
+line-height: 0px;
+outline: medium none;
+padding: 0px 0px;
+width: 00px;
+}
+
+.tt-dropdown-menu {
+width: 250px;
+margin-top: 2x;
+padding: 8px 12px;
+background-color: #ff00ff;
+border: 1px solid #f7f;
+border: 1px solid rgba(0, 0, 0, 0.2);
+border-radius: 8px 8px 8px 8px;
+font-size: 14px;
+color: #333;
+background-color: #fafafa;
+}
